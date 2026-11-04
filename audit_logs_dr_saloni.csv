@@ -1,0 +1,3 @@
+patient_id,datetime,disease,risk,confidence
+PT-1004,"01 Sep 2026, 01:44 PM",Heart Disease,Low Risk,24.50%
+,"01 Sep 2026, 11:44 AM",Heart Disease,Borderline Risk,46.24%
