@@ -256,13 +256,6 @@ st.markdown("""
         background: #4338CA !important;
         box-shadow: 0 6px 20px rgba(79, 70, 229, 0.45);
     }
-
-    @media (max-width: 768px) {
-        div[data-testid="column"] {
-            margin-bottom: 16px !important;
-        }
-    }
-    
 </style>
 """, unsafe_allow_html=True)
 
